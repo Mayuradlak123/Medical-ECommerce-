@@ -33,4 +33,3 @@ Medstore is a Medical store alike website, built as the submission for the Minor
   This will start a local server on `port 8000`.
 - Open http://localhost:8000 or http://127.0.0.1:8000, in the browser to view the website
 
-![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
